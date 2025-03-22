@@ -1,2 +1,2 @@
-# bits-and-braces
-temp
+This guide is a journey from low-level to high-level programming.
+It starts at the metal—assembly, memory, registers—and climbs up through C, Rust, and modern languages, exploring how things work under the hood, how to write efficient code, and how to truly understand what your programs are doing. Whether you're debugging raw opcodes or writing sleek high-level abstractions, there's something here for you.
