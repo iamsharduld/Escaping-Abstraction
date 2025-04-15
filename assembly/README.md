@@ -1,4 +1,4 @@
-  # Assembly Language Adventure: From C to the Metal
+  # Assembly Language Adventure
 
 **Ever peeked under the hood of your C code and wondered what really runs on the CPU?** This guide takes you on a journey into **assembly programming** – the human-readable form of machine code – with a curiosity-driven approach. Aimed at developers comfortable with C or similar languages, we’ll bridge high-level concepts to low-level reality. You’ll learn core assembly concepts and write code for modern CPUs (x86_64, ARM64, RISC-V) and even GPUs. By the end, you’ll know why assembly still matters and how to harness it for performance, debugging, and fun.
 
